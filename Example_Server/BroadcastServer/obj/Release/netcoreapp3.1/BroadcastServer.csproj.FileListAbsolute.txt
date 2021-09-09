@@ -1,0 +1,16 @@
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\bin\Release\netcoreapp3.1\BroadcastServer.exe
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\bin\Release\netcoreapp3.1\BroadcastServer.deps.json
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\bin\Release\netcoreapp3.1\BroadcastServer.runtimeconfig.json
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\bin\Release\netcoreapp3.1\BroadcastServer.runtimeconfig.dev.json
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\bin\Release\netcoreapp3.1\BroadcastServer.dll
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\bin\Release\netcoreapp3.1\BroadcastServer.pdb
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.AssemblyInfoInputs.cache
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.AssemblyInfo.cs
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.csproj.CoreCompileInputs.cache
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.csproj.CopyComplete
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.dll
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.pdb
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.genruntimeconfig.cache
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\obj\Release\netcoreapp3.1\BroadcastServer.csproj.AssemblyReference.cache
+C:\Users\skyne\source\repos\BroadcastServer\BroadcastServer\bin\Release\netcoreapp3.1\SocketPacket.dll
